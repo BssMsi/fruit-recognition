@@ -1,2 +1,7 @@
 Other*
-attempts/models*
+attempts*
+weights/alex*
+weights/vgg*
+weights/dense*
+weights/res*
+cache*
