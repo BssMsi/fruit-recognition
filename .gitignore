@@ -1,7 +1,4 @@
 Other*
 attempts*
-weights/alex*
-weights/vgg*
-weights/dense*
-weights/res*
+weights*
 cache*
