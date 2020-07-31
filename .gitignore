@@ -1,5 +1,5 @@
 Other*
-attempts*
-weights*
-cache*
-.*
+attempts/
+weights/
+cache/
+ipynb*
